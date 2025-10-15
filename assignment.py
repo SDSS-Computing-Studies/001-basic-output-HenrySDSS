@@ -8,4 +8,3 @@ Sample output:
 Hello World!
 
 """
-cghcghcgh
